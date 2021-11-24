@@ -14,7 +14,7 @@
 const Dafne = {
   pronouns: 'she' || 'her',
   lenguajes: [Javascript, HTML, CSS],
-  tools: ['NodeJS', Firebase, Jest, NPM, ReactJS ],
+  tools: [NodeJS, Firebase, Jest, NPM, ReactJS ],
   languages: ["Spanish", "English"]
 }
 ```
