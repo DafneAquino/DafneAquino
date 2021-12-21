@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<p><em>Front-End Developer at <a href="https://www.laboratoria.la/">Laboratoria</a><img src="https://media.giphy.com/media/A8xNLuV3SsMPhrRCqR/giphy.gif" width="70">
+<p><em>Front-End Developer FROM <a href="https://www.laboratoria.la/">Laboratoria</a><img src="https://media.giphy.com/media/A8xNLuV3SsMPhrRCqR/giphy.gif" width="70">
 </em></p>
 
 [![Linnkedin: DafneAquino](https://img.shields.io/badge/-DafneAquino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dafne-aquino)](https://www.linkedin.com/in/dafne-aquino/)
