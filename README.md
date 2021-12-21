@@ -13,9 +13,8 @@
 ```javascript
 const Dafne = {
   pronouns: 'she' || 'her',
-  lenguajes: [Javascript, HTML, CSS],
-  tools: [NodeJS, Firebase, Jest, NPM, ReactJS ],
-  languages: ["Spanish", "English"]
+  languages: [Javascript, HTML, CSS],
+  tools: [NodeJS, Firebase, Jest, NPM, ReactJS ]
 }
 ```
 <img src="https://media.giphy.com/media/TAI7m9rn3J6eeUn9Q2/giphy.gif" width="60"> <em>** <b>If you are passionate about something, work hard and you will succeed</b> **</em>
